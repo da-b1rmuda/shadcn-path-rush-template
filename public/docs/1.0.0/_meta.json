@@ -1,0 +1,487 @@
+{
+  "ru/start/introduction.md": {
+    "title": "Введение",
+    "order": 1
+  },
+  "ru/start/architecture.md": {
+    "title": "Архитектура",
+    "order": 2
+  },
+  "ru/start": {
+    "title": "Введение",
+    "order": 1,
+    "icon": "info"
+  },
+  "ru/start/conventions.md": {
+    "title": "Соглашения",
+    "order": 4
+  },
+  "ru/start/quick-start.md": {
+    "title": "Быстрый старт",
+    "order": 3
+  },
+  "ru/start/package-map.md": {
+    "title": "Карта пакетов",
+    "order": 5
+  },
+  "ru/package-catalog": {
+    "title": "Пакеты",
+    "order": 2,
+    "icon": "blocks"
+  },
+  "ru/manual": {
+    "title": "Руководства",
+    "order": 3,
+    "icon": "book-marked"
+  },
+  "ru/reference": {
+    "title": "Справочник",
+    "order": 4,
+    "icon": "factory"
+  },
+  "ru/faq": {
+    "title": "FAQ",
+    "order": 5,
+    "icon": "badge-question-mark"
+  },
+  "ru/package-catalog/config-rush": {
+    "title": "Config rush",
+    "icon": "settings"
+  },
+  "ru/package-catalog/config-rush/index.md": {
+    "title": "Введение",
+    "order": 1
+  },
+  "ru/package-catalog/config-rush/overview.md": {
+    "title": "Обзор",
+    "order": 2
+  },
+  "ru/package-catalog/config-rush/installation.md": {
+    "title": "Установка",
+    "order": 3
+  },
+  "ru/package-catalog/config-rush/configuration.md": {
+    "title": "Конфигурация",
+    "order": 4
+  },
+  "ru/package-catalog/config-rush/quick-start.md": {
+    "title": "Быстрый старт",
+    "order": 5
+  },
+  "ru/package-catalog/config-rush/faq.md": {
+    "title": "Частые вопросы",
+    "order": 6
+  },
+  "ru/package-catalog/config-rush/changelog.md": {
+    "title": "История изменений ",
+    "order": 7
+  },
+  "ru/package-catalog/config-rush/(group-guides)": {
+    "title": "Руководства",
+    "order": 8,
+    "icon": "book-text"
+  },
+  "ru/package-catalog/config-rush/(group-examples)": {
+    "title": "Примеры",
+    "order": 9,
+    "icon": "grid2x2-check"
+  },
+  "ru/package-catalog/config-rush/api": {
+    "title": "API",
+    "order": 10,
+    "icon": "code-xml"
+  },
+  "ru/package-catalog/config-rush/(group-guides)/basic-usage.md": {
+    "title": "Базовое использование",
+    "order": 1
+  },
+  "ru/package-catalog/config-rush/(group-guides)/common-cases.md": {
+    "title": "Типовые сценарии",
+    "order": 2
+  },
+  "ru/package-catalog/config-rush/(group-guides)/troubleshooting.md": {
+    "title": "Устранение неполадок",
+    "order": 3
+  },
+  "ru/package-catalog/config-rush/(group-examples)/basic-example.md": {
+    "title": "Базовый пример",
+    "order": 1
+  },
+  "ru/package-catalog/config-rush/(group-examples)/advanced-example.md": {
+    "title": "Расширенный пример",
+    "order": 2
+  },
+  "ru/package-catalog/module-rush": {
+    "title": "Module rush",
+    "icon": "brick-wall"
+  },
+  "ru/package-catalog/module-rush/index.md": {
+    "title": "Введение",
+    "order": 1
+  },
+  "ru/package-catalog/module-rush/overview.md": {
+    "title": "Обзор",
+    "order": 2
+  },
+  "ru/package-catalog/module-rush/installation.md": {
+    "title": "Установка",
+    "order": 3
+  },
+  "ru/package-catalog/module-rush/configuration.md": {
+    "title": "Конфигурация",
+    "order": 4
+  },
+  "ru/package-catalog/module-rush/quick-start.md": {
+    "title": "Быстрый старт",
+    "order": 5
+  },
+  "ru/package-catalog/module-rush/faq.md": {
+    "title": "Частые вопросы",
+    "order": 7
+  },
+  "ru/package-catalog/module-rush/cli.md": {
+    "title": "CLI команды",
+    "order": 6
+  },
+  "ru/package-catalog/module-rush/changelog.md": {
+    "title": "История изменений",
+    "order": 8
+  },
+  "ru/package-catalog/module-rush/(group-guides)": {
+    "title": "Руководства",
+    "order": 9,
+    "icon": "book-text"
+  },
+  "ru/package-catalog/module-rush/(group-examples)": {
+    "title": "Примеры",
+    "order": 10,
+    "icon": "grid2x2-check"
+  },
+  "ru/package-catalog/module-rush/api": {
+    "title": "API",
+    "order": 11,
+    "icon": "code-xml"
+  },
+  "ru/package-catalog/config-rush/api/index.md": {
+    "title": "Путеводитель",
+    "order": 1,
+    "icon": "book-search"
+  },
+  "ru/package-catalog/module-rush/api/index.md": {
+    "title": "Путеводитель",
+    "order": 1,
+    "icon": "book-search"
+  },
+  "ru/package-catalog/dock-rush": {
+    "title": "Dock rush",
+    "icon": "file-question-mark"
+  },
+  "ru/package-catalog/image-rush": {
+    "title": "Image rush",
+    "icon": "image"
+  },
+  "ru/package-catalog/path-rush": {
+    "title": "Path rush",
+    "icon": "git-branch"
+  },
+  "ru/package-catalog/pwa-rush": {
+    "title": "PWA rush",
+    "icon": "monitor-smartphone"
+  },
+  "ru/package-catalog/pwa-rush-cli": {
+    "title": "PWA rush (cli)",
+    "icon": "monitor-smartphone"
+  },
+  "ru/package-catalog/dock-rush/index.md": {
+    "title": "Введение",
+    "order": 1
+  },
+  "ru/package-catalog/dock-rush/overview.md": {
+    "title": "Обзор",
+    "order": 2
+  },
+  "ru/package-catalog/dock-rush/installation.md": {
+    "title": "Установка",
+    "order": 3
+  },
+  "ru/package-catalog/dock-rush/configuration.md": {
+    "title": "Конфигурация",
+    "order": 4
+  },
+  "ru/package-catalog/dock-rush/quick-start.md": {
+    "title": "Быстрый старт",
+    "order": 5
+  },
+  "ru/package-catalog/dock-rush/changelog.md": {
+    "title": "История изменений",
+    "order": 7
+  },
+  "ru/package-catalog/dock-rush/api": {
+    "title": "API",
+    "order": 10,
+    "icon": "code-xml"
+  },
+  "ru/package-catalog/dock-rush/(group-examples)": {
+    "title": "Примеры",
+    "order": 9,
+    "icon": "grid2x2-check"
+  },
+  "ru/package-catalog/dock-rush/(group-guides)": {
+    "title": "Руководства",
+    "order": 8,
+    "icon": "book-text"
+  },
+  "ru/package-catalog/dock-rush/faq.md": {
+    "title": "Частые вопросы",
+    "order": 6
+  },
+  "ru/package-catalog/image-rush/index.md": {
+    "title": "Введение",
+    "order": 1
+  },
+  "ru/package-catalog/image-rush/overview.md": {
+    "title": "Обзор",
+    "order": 2
+  },
+  "ru/package-catalog/image-rush/installation.md": {
+    "title": "Установка",
+    "order": 3
+  },
+  "ru/package-catalog/image-rush/configuration.md": {
+    "title": "Конфигурация",
+    "order": 4
+  },
+  "ru/package-catalog/image-rush/quick-start.md": {
+    "title": "Быстрый старт",
+    "order": 5
+  },
+  "ru/package-catalog/image-rush/changelog.md": {
+    "title": "История изменений",
+    "order": 7
+  },
+  "ru/package-catalog/image-rush/faq.md": {
+    "title": "Частые вопросы",
+    "order": 6
+  },
+  "ru/package-catalog/image-rush/(group-guides)": {
+    "title": "Руководства",
+    "order": 8,
+    "icon": "book-text"
+  },
+  "ru/package-catalog/image-rush/(group-examples)": {
+    "title": "Примеры",
+    "order": 9,
+    "icon": "grid2x2-check"
+  },
+  "ru/package-catalog/image-rush/api": {
+    "title": "API",
+    "order": 10,
+    "icon": "code-xml"
+  },
+  "ru/package-catalog/image-rush/api/index.md": {
+    "title": "Путеводитель",
+    "order": 1,
+    "icon": "book-search"
+  },
+  "ru/package-catalog/image-rush/(group-guides)/basic-usage.md": {
+    "title": "Базовое использование",
+    "order": 1
+  },
+  "ru/package-catalog/module-rush/(group-guides)/basic-usage.md": {
+    "title": "Базовое использование",
+    "order": 1
+  },
+  "ru/package-catalog/image-rush/(group-guides)/common-cases.md": {
+    "title": "Типовые сценарии",
+    "order": 2
+  },
+  "ru/package-catalog/module-rush/(group-guides)/common-cases.md": {
+    "title": "Типовые сценарии",
+    "order": 2
+  },
+  "ru/package-catalog/image-rush/(group-guides)/troubleshooting.md": {
+    "title": "Устранение неполадок",
+    "order": 3
+  },
+  "ru/package-catalog/module-rush/(group-guides)/troubleshooting.md": {
+    "title": "Устранение неполадок",
+    "order": 3
+  },
+  "ru/package-catalog/image-rush/(group-examples)/basic-example.md": {
+    "title": "Базовый пример",
+    "order": 1
+  },
+  "ru/package-catalog/module-rush/(group-examples)/basic-example.md": {
+    "title": "Базовый пример",
+    "order": 1
+  },
+  "ru/package-catalog/image-rush/(group-examples)/advanced-example.md": {
+    "title": "Расширенный пример",
+    "order": 2
+  },
+  "ru/package-catalog/module-rush/(group-examples)/advanced-example.md": {
+    "title": "Расширенный пример",
+    "order": 2
+  },
+  "ru/package-catalog/pwa-rush/index.md": {
+    "title": "Введение",
+    "order": 1
+  },
+  "ru/package-catalog/pwa-rush-cli/index.md": {
+    "title": "Введение",
+    "order": 1
+  },
+  "ru/package-catalog/pwa-rush/overview.md": {
+    "title": "Обзор",
+    "order": 2
+  },
+  "ru/package-catalog/pwa-rush-cli/overview.md": {
+    "title": "Обзор",
+    "order": 2
+  },
+  "ru/package-catalog/pwa-rush/installation.md": {
+    "title": "Установка",
+    "order": 3
+  },
+  "ru/package-catalog/pwa-rush-cli/installation.md": {
+    "title": "Установка",
+    "order": 3
+  },
+  "ru/package-catalog/pwa-rush/configuration.md": {
+    "title": "Конфигурация",
+    "order": 4
+  },
+  "ru/package-catalog/pwa-rush-cli/configuration.md": {
+    "title": "Конфигурация",
+    "order": 4
+  },
+  "ru/package-catalog/pwa-rush/quick-start.md": {
+    "title": "Быстрый старт",
+    "order": 5
+  },
+  "ru/package-catalog/pwa-rush-cli/quick-start.md": {
+    "title": "Быстрый старт",
+    "order": 5
+  },
+  "ru/package-catalog/pwa-rush/faq.md": {
+    "title": "Частые вопросы",
+    "order": 6
+  },
+  "ru/package-catalog/pwa-rush-cli/faq.md": {
+    "title": "Частые вопросы",
+    "order": 6
+  },
+  "ru/package-catalog/pwa-rush/changelog.md": {
+    "title": "История изменений",
+    "order": 7
+  },
+  "ru/package-catalog/pwa-rush-cli/changelog.md": {
+    "title": "История изменений",
+    "order": 7
+  },
+  "ru/package-catalog/pwa-rush/(group-guides)": {
+    "title": "Руководства",
+    "order": 8,
+    "icon": "book-text"
+  },
+  "ru/package-catalog/pwa-rush-cli/(group-guides)": {
+    "title": "Руководства",
+    "order": 8,
+    "icon": "book-text"
+  },
+  "ru/package-catalog/pwa-rush/(group-examples)": {
+    "title": "Примеры",
+    "order": 9,
+    "icon": "grid2x2-check"
+  },
+  "ru/package-catalog/pwa-rush-cli/(group-examples)": {
+    "title": "Примеры",
+    "order": 9,
+    "icon": "grid2x2-check"
+  },
+  "ru/package-catalog/pwa-rush/api": {
+    "title": "API",
+    "order": 10,
+    "icon": "code-xml"
+  },
+  "ru/package-catalog/pwa-rush-cli/api": {
+    "title": "API",
+    "order": 10,
+    "icon": "code-xml"
+  },
+  "ru/package-catalog/dock-rush/(group-guides)/basic-usage.md": {
+    "title": "Базовое использование",
+    "order": 1
+  },
+  "ru/package-catalog/pwa-rush/(group-guides)/basic-usage.md": {
+    "title": "Базовое использование",
+    "order": 1
+  },
+  "ru/package-catalog/pwa-rush-cli/(group-guides)/basic-usage.md": {
+    "title": "Базовое использование",
+    "order": 1
+  },
+  "ru/package-catalog/dock-rush/(group-guides)/common-cases.md": {
+    "title": "Типовые сценарии",
+    "order": 2
+  },
+  "ru/package-catalog/pwa-rush/(group-guides)/common-cases.md": {
+    "title": "Типовые сценарии",
+    "order": 2
+  },
+  "ru/package-catalog/pwa-rush-cli/(group-guides)/common-cases.md": {
+    "title": "Типовые сценарии",
+    "order": 2
+  },
+  "ru/package-catalog/dock-rush/(group-guides)/troubleshooting.md": {
+    "title": "Устранение неполадок",
+    "order": 3
+  },
+  "ru/package-catalog/pwa-rush/(group-guides)/troubleshooting.md": {
+    "title": "Устранение неполадок",
+    "order": 3
+  },
+  "ru/package-catalog/pwa-rush-cli/(group-guides)/troubleshooting.md": {
+    "title": "Устранение неполадок",
+    "order": 3
+  },
+  "ru/package-catalog/dock-rush/(group-examples)/basic-example.md": {
+    "title": "Базовый пример",
+    "order": 1
+  },
+  "ru/package-catalog/pwa-rush/(group-examples)/basic-example.md": {
+    "title": "Базовый пример",
+    "order": 1
+  },
+  "ru/package-catalog/pwa-rush-cli/(group-examples)/basic-example.md": {
+    "title": "Базовый пример",
+    "order": 1
+  },
+  "ru/package-catalog/dock-rush/(group-examples)/advanced-example.md": {
+    "title": "Расширенный пример",
+    "order": 2
+  },
+  "ru/package-catalog/pwa-rush/(group-examples)/advanced-example.md": {
+    "title": "Расширенный пример",
+    "order": 2
+  },
+  "ru/package-catalog/pwa-rush-cli/(group-examples)/advanced-example.md": {
+    "title": "Расширенный пример",
+    "order": 2
+  },
+  "ru/package-catalog/dock-rush/api/index.md": {
+    "title": "Путеводитель",
+    "order": 1,
+    "icon": "book-search"
+  },
+  "ru/package-catalog/pwa-rush/api/index.md": {
+    "title": "Путеводитель",
+    "order": 1,
+    "icon": "book-search"
+  },
+  "ru/package-catalog/pwa-rush-cli/api/index.md": {
+    "title": "Путеводитель",
+    "order": 1,
+    "icon": "book-search"
+  }
+}
