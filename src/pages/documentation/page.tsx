@@ -15,13 +15,14 @@ function Dock() {
 			useToc
 			useBreadcrumbs
 			usePrevNext
+			showVersion={false}
 			headerLinks={[
-				{ type: "github", href: "https://github.com/your-org/dock-rush" },
+				{ type: "gitea", href: "https://git.web2bizz.ru/da_b1rmuda" },
+				{ type: "telegram", href: "https://t.me/fortochka9" },
 			]}
 			footer={{
-				bottomText: "© 2026 Rush",
+				bottomText: "© Все права защищены - Rush Framework, 2026",
 			}}
-			useBuilder
 		/>
 	);
 }

@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@da_b1rmuda/dock-rush':
-        specifier: 2.3.3
-        version: 2.3.3(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
+        specifier: 2.3.4
+        version: 2.3.4(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       '@da_b1rmuda/path-rush':
         specifier: ^2.0.11
         version: 2.0.11(react@19.2.3)(vite@7.3.0(@types/node@24.10.4)(jiti@2.6.1)(lightningcss@1.30.2))
@@ -215,8 +215,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@da_b1rmuda/dock-rush@2.3.3':
-    resolution: {integrity: sha512-SuKp1J+/78m0UDwqH8nVhpppCjFiSqNY0HLL4aBMwEAkviRanNareOJJvz2hmRQga6pwNbKPgbY6YC39mI2fGg==, tarball: https://git.web2bizz.ru/api/packages/da_b1rmuda/npm/%40da_b1rmuda%2Fdock-rush/-/2.3.3/dock-rush-2.3.3.tgz}
+  '@da_b1rmuda/dock-rush@2.3.4':
+    resolution: {integrity: sha512-U2hx1knQtlb4+2r7cs8rZvWZ8pZrfzB9blED05aOaZ++Gijz6vhjFZ56V63HMkb4F9AwqSTpEF+P7AP6yuG0XA==, tarball: https://git.web2bizz.ru/api/packages/da_b1rmuda/npm/%40da_b1rmuda%2Fdock-rush/-/2.3.4/dock-rush-2.3.4.tgz}
     peerDependencies:
       react: '*'
       react-dom: '*'
@@ -2388,7 +2388,7 @@ snapshots:
   '@biomejs/cli-win32-x64@2.3.10':
     optional: true
 
-  '@da_b1rmuda/dock-rush@2.3.3(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)':
+  '@da_b1rmuda/dock-rush@2.3.4(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)':
     dependencies:
       '@radix-ui/react-dialog': 1.1.15(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
       '@radix-ui/react-scroll-area': 1.2.10(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
